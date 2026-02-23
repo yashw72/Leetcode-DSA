@@ -6,7 +6,7 @@ I use this repository to consistently improve my **problem-solving skills**, str
 
 ---
 
-## 🎯 Why I Created This Repository
+## 🎯 Why I Created This Repository?
 
 - 📅 To maintain discipline in daily DSA practice  
 - 🧠 To improve logical thinking and algorithmic efficiency  
