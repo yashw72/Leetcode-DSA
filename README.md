@@ -44,3 +44,19 @@ I use this repository to consistently improve my **problem-solving skills**, str
 
 This repository reflects my **continuous learning journey** in Data Structures and Algorithms.  
 Solutions are added and refined as my understanding grows.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics End-->
