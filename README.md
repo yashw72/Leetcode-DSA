@@ -55,8 +55,13 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
