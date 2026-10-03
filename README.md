@@ -68,6 +68,7 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/yashw72/Leetcode-DSA/tree/master/0263-ugly-number) |
 ## Simulation
 |  |
 | ------- |
