@@ -64,4 +64,16 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
