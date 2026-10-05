@@ -51,12 +51,14 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yashw72/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## Union-Find
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Solutions are added and refined as my understanding grows.
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yashw72/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
