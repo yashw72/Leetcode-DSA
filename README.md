@@ -69,11 +69,13 @@ Solutions are added and refined as my understanding grows.
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yashw72/Leetcode-DSA/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashw72/Leetcode-DSA/tree/master/0263-ugly-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -82,4 +84,12 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
