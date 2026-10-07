@@ -51,6 +51,7 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0260-single-number-iii](https://github.com/yashw72/Leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -92,4 +93,8 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/yashw72/Leetcode-DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
