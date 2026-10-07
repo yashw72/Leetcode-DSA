@@ -77,6 +77,7 @@ Solutions are added and refined as my understanding grows.
 | [0231-power-of-two](https://github.com/yashw72/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashw72/Leetcode-DSA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/yashw72/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
@@ -103,4 +104,5 @@ Solutions are added and refined as my understanding grows.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yashw72/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashw72/Leetcode-DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
