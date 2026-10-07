@@ -78,6 +78,7 @@ Solutions are added and refined as my understanding grows.
 | [0258-add-digits](https://github.com/yashw72/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yashw72/Leetcode-DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/yashw72/Leetcode-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yashw72/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
@@ -100,9 +101,11 @@ Solutions are added and refined as my understanding grows.
 | ------- |
 | [0231-power-of-two](https://github.com/yashw72/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yashw72/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/yashw72/Leetcode-DSA/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yashw72/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yashw72/Leetcode-DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yashw72/Leetcode-DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
