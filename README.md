@@ -59,6 +59,7 @@ Solutions are added and refined as my understanding grows.
 | [0128-longest-consecutive-sequence](https://github.com/yashw72/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yashw72/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/yashw72/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 ## Union-Find
 |  |
@@ -69,6 +70,7 @@ Solutions are added and refined as my understanding grows.
 | ------- |
 | [0205-isomorphic-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/yashw72/Leetcode-DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/yashw72/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/yashw72/Leetcode-DSA/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yashw72/Leetcode-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Math
@@ -108,4 +110,8 @@ Solutions are added and refined as my understanding grows.
 | [0231-power-of-two](https://github.com/yashw72/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yashw72/Leetcode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yashw72/Leetcode-DSA/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/yashw72/Leetcode-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
